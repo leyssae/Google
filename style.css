@@ -1,0 +1,53 @@
+.logoGoogle
+{
+
+	padding-top: 150px;
+
+}
+
+.BoutonG
+{
+	float: right;
+	background: rgba(0, 0, 0, 0);
+	height: 30px;
+}
+
+.BoutonC
+{
+	float: right;
+	background-color: blue;
+	color: white;
+	height: 30px;
+
+}
+
+.Bouton
+{
+	background-color: silver;
+}
+
+.input
+{
+	width 1000px;
+	height: 30px;
+
+}
+
+footer
+{
+	display: block;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width  100px;
+}
+
+#Right
+{
+	display: block;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	width 100px;
+}
+
